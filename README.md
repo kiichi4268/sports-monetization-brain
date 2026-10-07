@@ -46,10 +46,12 @@ sports-monetization-brain/
 │   ├── 03_blog_architect.md
 │   ├── 04_sponsor_pitcher.md
 │   └── 05_biz_dev_manager.md
-└── execution_guides/
-    ├── autosns_line_setup.md         ← LINE自動化・デジタル参加証
-    ├── note_launch_guide.md          ← note公開〜販売
-    └── wordpress_monetization.md     ← ブログ収益化・PR表記
+├── execution_guides/
+│   ├── autosns_line_setup.md         ← LINE自動化・デジタル参加証
+│   ├── note_launch_guide.md          ← note公開〜販売
+│   └── wordpress_monetization.md     ← ブログ収益化・PR表記
+└── logs/
+    └── weekly/                       ← 週次ログ（YYYY-Www.md）
 ```
 
 ---

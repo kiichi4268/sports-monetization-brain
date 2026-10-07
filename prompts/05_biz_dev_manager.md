@@ -110,5 +110,5 @@
 ---
 
 ## 出力の保存ルール
-- 週次の出力は `logs/weekly/YYYY-Www.md` として保存すると振り返りが容易（任意）
+- 週次の出力は `logs/weekly/YYYY-Www.md` として保存する（テンプレは `logs/weekly/README.md`）
 - 月次レビューの結論は `strategy/revenue_model.md` の「実績記録欄」に転記する
